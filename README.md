@@ -2,8 +2,8 @@
 
 ## All experiments for Advance Programming-2
 
-**Name** - Sidhant  
-**UID** - 22BCS15880 
-**Section** - 601-'B' (Fast Learners)  
+**NAME** - SIDHANT  
+**UID** - 22BCS15880  
+**SECTION** - 601-'B' (FAST LEARNERS)
 
 **Leetcode Profile Link** - [Click Here](https://leetcode.com/u/Sidhant_manchanda/)
